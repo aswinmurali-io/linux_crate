@@ -1,0 +1,46 @@
+{
+    "Flutter Pack": {
+        "description": "This is a pack which is used to setup Flutter",
+        "content": [
+            "snap.sh",
+            "flutter.sh"
+        ]
+    },
+    "Blender Pack": {
+        "description": "This is a pack which is used to setup Blender",
+        "content": [
+            "snap.sh",
+            "blender.sh"
+        ]
+    },
+    "Artist Pack": {
+        "description": "The artist pack contains GIMP, Inkscape & Krita.",
+        "content": [
+            "gimp.sh",
+            "inkscape.sh",
+            "krita.sh"
+        ]
+    },
+    "All Webbrowser Pack": {
+        "description": "The web browser pack can be used by web developers to test their code in multiple browser. Contains Opera, Firefox, Chrome.",
+        "content": [
+            "chrome.sh",
+            "opera.sh",
+            "firefox.sh"
+        ]
+    },
+    "Media VLC": {
+        "description": "VLC Media Player",
+        "content": [
+            "vlc.sh"
+        ]
+    },
+    "Code Editor Pack": {
+        "description": "Code Editor pack contains VSCode & Vim.",
+        "content": [
+            "snap.sh",
+            "vscode.sh",
+            "vim.sh"
+        ]
+    }
+}
